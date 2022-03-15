@@ -1,0 +1,21 @@
+/*styles.css*/
+
+
+
+body {
+    background-color: aquamarine;
+}
+
+img {
+    height:200px;
+    width:auto;
+    align-items:center;
+    object-fit: contain;
+    border:blueviolet;
+}
+
+
+
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
