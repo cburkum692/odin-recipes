@@ -9,11 +9,22 @@ body {
 img {
     height:200px;
     width:auto;
-    align-items:center;
-    object-fit: contain;
+    box-align:center;
     border:blueviolet;
+    border-width: 55px;
+    border-radius: 55px;
 }
 
 * {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+
+}
+
+p {
+    text-align: center;
 }
